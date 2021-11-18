@@ -1,1 +1,11 @@
 # python-uts
+
+4. program input bilangan bulat dan menentukan nilai terbesar:
+
+![P4 1](https://user-images.githubusercontent.com/91968610/142432441-858eb8fa-eb22-4c11-891d-b2053f1cee89.png)
+![P4 2](https://user-images.githubusercontent.com/91968610/142432469-e431c501-f4f1-4bbf-9613-97390d0785c7.png)
+
+5. program mencari nilai terbesar dari sekelompok data:
+
+![P5](https://user-images.githubusercontent.com/91968610/142432609-45d77af3-180f-49c0-a492-b80e00647852.png)
+![P5 2](https://user-images.githubusercontent.com/91968610/142432673-0383365d-8c51-4b66-aeeb-b358799b14ae.png)
