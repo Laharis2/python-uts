@@ -9,6 +9,10 @@
 ![R3](https://user-images.githubusercontent.com/91968610/143066811-f29258c4-96e0-4423-a797-52f4184025a0.png)
 ![R4](https://user-images.githubusercontent.com/91968610/143066854-a3600c28-de4c-48e0-b339-ffe4f0ab0b5d.png)
 
+3. program mengolah nilai:
+
+![R5](https://user-images.githubusercontent.com/91968610/143073421-063d2347-0730-4e6d-ad8a-d57cfbee0f67.png)
+![R6](https://user-images.githubusercontent.com/91968610/143073464-4197ea0f-eaff-44a5-b034-facd8eb50616.png)
 
 4. program input bilangan bulat dan menentukan nilai terbesar:
 
