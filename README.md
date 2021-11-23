@@ -4,6 +4,11 @@
 ![R1](https://user-images.githubusercontent.com/91968610/143062729-01c5fbad-b2db-4c86-8b0b-3bbb1b6a2fec.png)
 ![R2](https://user-images.githubusercontent.com/91968610/143062760-3790b10a-e7a9-44d4-93bc-abe2a684f7df.png)
 
+2. modivikasi nomor satu :
+
+![R3](https://user-images.githubusercontent.com/91968610/143066811-f29258c4-96e0-4423-a797-52f4184025a0.png)
+![R4](https://user-images.githubusercontent.com/91968610/143066854-a3600c28-de4c-48e0-b339-ffe4f0ab0b5d.png)
+
 
 4. program input bilangan bulat dan menentukan nilai terbesar:
 
